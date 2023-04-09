@@ -1,0 +1,6 @@
+github.com/jandre/procfs v0.0.0-20150609131925-f645421657bb h1:YP/wRIW8MGz9lGHnXdxxltGm8Nq613qc+YrXOyx/a+0=
+github.com/jandre/procfs v0.0.0-20150609131925-f645421657bb/go.mod h1:jUuOKgs2AZNSQoDL4dmKCW7XgHzSTu4udmnw4/zExJs=
+github.com/mattn/go-runewidth v0.0.9 h1:Lm995f3rfxdpd6TSmuVCHVb/QhupuXlYr8sCI/QdE+0=
+github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
+github.com/olekukonko/tablewriter v0.0.5 h1:P2Ga83D34wi1o9J6Wh1mRuqd4mF/x/lgBS7N7AbDhec=
+github.com/olekukonko/tablewriter v0.0.5/go.mod h1:hPp6KlRPjbx+hW8ykQs1w3UBbZlj6HuIJcUGPhkA7kY=
